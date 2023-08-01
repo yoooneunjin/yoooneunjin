@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=header&height=250&text=YOOONEUNJIN!&animation=twinkling&fontSize=50&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=header&height=250&text=YOOONEUNJIN!&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlignY=40)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 
