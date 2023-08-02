@@ -6,6 +6,7 @@ Welcome to my GitHub.
 
 <br>
 
+<div align="center">
 <h3>⚒️ Tech Stack ⚒️</h3>
 
 <div>
@@ -29,6 +30,8 @@ Welcome to my GitHub.
 <div>
   <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</div>
+
 </div>
 
 <br>
