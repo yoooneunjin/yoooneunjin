@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=header&height=250&text=YOOONEUNJIN!&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlignY=40"/>
   
   <h3>Hi, There! 👋👋</h3>
-  This is Eunjin. <br>
+  This is Eunjin. 
+  <br>
   Welcome to my GitHub. 
   
   <br>
@@ -35,7 +36,9 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   </div>
   
-  
+  <div>
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
+  </div>
   
   <br>
   <br>
