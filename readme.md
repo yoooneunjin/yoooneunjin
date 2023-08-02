@@ -1,6 +1,10 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=header&height=250&text=YOOONEUNJIN!&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlignY=40"/>
+
+<h3>Hi, There! 👋👋</h3>
+This is Eunjin. <br>
+Welcome to my GitHub. 
+
+<br>
 
 <h3>⚒️ Tech Stack ⚒️</h3>
 
@@ -30,8 +34,8 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOONEUNJIN&layout=compact&theme=holi"> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=YOOONEUNJIN&show_icons=true&theme=holi">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOONEUNJIN&layout=compact&theme=holi">
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=footer&height=100)
-</div>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=footer&height=100"/>
+
