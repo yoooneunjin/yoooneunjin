@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=header&height=250&text=YOOONEUNJIN!&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlignY=40)
-
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=header&height=250&text=YOOONEUNJIN!&animation=twinkling&fontSize=70&fontColor=FFFFFF&fontAlignY=40"/>
 
 <h3>⚒️ Tech Stack ⚒️</h3>
 
@@ -31,12 +30,8 @@
 <br>
 <br>
 
-<div>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOONEUNJIN&show_icons=true&theme=holi)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOONEUNJIN&layout=compact&theme=holi)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOONEUNJIN&layout=compact&theme=holi"> <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=YOOONEUNJIN&show_icons=true&theme=holi">
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=0B9CF5&section=footer&height=100)
 </div>
